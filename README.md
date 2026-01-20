@@ -1,6 +1,9 @@
-![](https://komarev.com/ghpvc/?username=DanilaBezhin&color=yellow)🐖
-[![Codewars](https://www.codewars.com/users/qwed2716/badges/large)](https://www.codewars.com/users/qwed2716)
+![](https://komarev.com/ghpvc/?username=bossAlexanders&color=yellow)
+
 ## Hi there 👋
+
+[![Codewars](https://www.codewars.com/users/qwed2716/badges/large)](https://www.codewars.com/users/qwed2716)
+
 
 
 
