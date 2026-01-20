@@ -37,6 +37,10 @@ Hi guys, I know Python.
 ## ACTIVITY✅
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossAlexanders&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
 
+---
+## Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 ## Hi there 👋
 # большой
 ## средний
