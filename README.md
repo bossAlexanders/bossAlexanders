@@ -16,12 +16,6 @@ Hi guys, I know Python.
 - 💪 Берегу ответственность за свои задачи
 - ✅ Всегда выполняю дедлайны
 
----
-
-#ACTIVITY✅
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossAlexanders&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
-
-
 ## 🛠 Tech Stack
 
 ### 🐍 Python Core
@@ -38,7 +32,10 @@ Hi guys, I know Python.
 ### 🖥 Desktop Apps
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFCA28?style=flat-square)
 
+---
 
+## ACTIVITY✅
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossAlexanders&layout=compact&theme=github_dark&cache_seconds=3600&v=2)
 
 ## Hi there 👋
 # большой
