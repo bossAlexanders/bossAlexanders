@@ -1,3 +1,11 @@
+![](https://komarev.com/ghpvc/?username=DanilaBezhin&color=yellow)🐖
+[![Codewars](https://www.codewars.com/users/qwed2716/badges/large)](https://www.codewars.com/users/qwed2716)
+## Hi there 👋
+
+
+
+
+
 ## Hi there 👋
 # большой
 ## средний
