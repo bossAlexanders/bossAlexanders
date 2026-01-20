@@ -4,6 +4,8 @@
 
 [![Codewars](https://www.codewars.com/users/qwed2716/badges/large)](https://www.codewars.com/users/qwed2716)
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ0bzh1ZW9zOTRjbDRvajhpMnBjM2Y4ejR2MnF2djFyZjc1eXMyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D63HGAzG15LQrjBPRE/giphy.gif" alt="literale me" width="300"/>
+
 
 
 
