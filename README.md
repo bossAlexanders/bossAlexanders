@@ -40,18 +40,3 @@ Hi guys, I know Python.
 ---
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_telegram) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## Hi there 👋
-# большой
-## средний
-### малеький
-
-**жирный текст**
-*курсив*
-
-![](https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwf3cr926c5s8ksswe66.jpeg)
-[text](https://learn-to-fly.ru/accounts/login/?next=/accounts/profile/)
-
-- ходить wasd
-- брать предемт e
-- фпс много
