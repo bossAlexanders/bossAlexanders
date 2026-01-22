@@ -11,10 +11,10 @@
 ## About me
 Hi guys, I know Python.
 
-- ⚡ Быстро адаптируюсь к изменениям
-- 🧩 Решаю комплексные проблемы
-- 💪 Берегу ответственность за свои задачи
-- ✅ Всегда выполняю дедлайны
+- ⚡ I adapt quickly to change
+- 🧩 I solve complex problems
+- 💪 I take responsibility for my tasks
+- ✅ I always meet deadlines
 
 ## 🛠 Tech Stack
 
